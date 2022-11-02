@@ -1,0 +1,14 @@
+@import url("cabeçalho.css");
+@import url("corpo.css");
+    
+
+:root {
+    --font-principal: "Inter";
+    --cor-principal: #101828;
+    --cor-secundario: #8E2424;
+    --cor-texto: #667085;
+}
+
+body {
+    font-family: var(--font-principal);
+}
